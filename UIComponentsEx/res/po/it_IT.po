@@ -1,0 +1,6 @@
+msgid "One finger double tap to activate"
+msgstr "Un dito doppio tap per attivare"
+
+msgid "Button accessiblity name"
+msgstr "Button nome di accessibilità"
+

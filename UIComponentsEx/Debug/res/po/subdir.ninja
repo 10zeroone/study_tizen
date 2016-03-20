@@ -1,0 +1,10 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+
+potool = msgfmt
+poflags = 
+
+build res/locale/en_US/LC_MESSAGES/uicomponentsex.mo: build_po ../res/po/en_US.po 
+build res/locale/it_IT/LC_MESSAGES/uicomponentsex.mo: build_po ../res/po/it_IT.po 

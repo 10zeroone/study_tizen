@@ -1,0 +1,8 @@
+msgid "One finger double tap to activate"
+msgstr "One finger double tap to activate"
+
+msgid "Button accessiblity name"
+msgstr "Button accessiblity name"
+
+msgid "Tick box for the entire group"
+msgstr "Tick box for the entire group"
