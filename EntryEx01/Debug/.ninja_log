@@ -1,0 +1,15 @@
+# ninja log v5
+0	1110	0	src/entryex01.o	43ca2a8a10d84989
+1113	1534	0	entryex01	7135f46ff4203773
+3	1099	0	src/entryex01.o	43ca2a8a10d84989
+1099	1461	0	entryex01	7135f46ff4203773
+4	1224	0	src/entryex01.o	af42dd093eb9d8ca
+1229	1698	0	entryex01	ae5757c69aba56f0
+3	1241	0	src/entryex01.o	af42dd093eb9d8ca
+1241	1696	0	entryex01	ae5757c69aba56f0
+5	1077	0	src/entryex01.o	af42dd093eb9d8ca
+1078	1449	0	entryex01	ae5757c69aba56f0
+3	1047	0	src/entryex01.o	af42dd093eb9d8ca
+1047	1427	0	entryex01	ae5757c69aba56f0
+3	1046	0	src/entryex01.o	af42dd093eb9d8ca
+1046	1413	0	entryex01	ae5757c69aba56f0
